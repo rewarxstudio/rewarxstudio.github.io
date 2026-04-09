@@ -1,45 +1,102 @@
-# The Ultimate Rewarx Partner Rewards Program: Earn by Sharing AI Photography
+# How to Earn Recurring Revenue with the Rewarx Partner Rewards Program
 
-Are you a content creator, agency, or ecommerce consultant? With the rapid adoption of AI in ecommerce, there's never been a better time to monetize your audience. The **[Rewarx Partner Rewards Program](https://www.rewarx.com)** offers a lucrative, transparent, and scalable commission structure for anyone who helps merchants transform their product photography.
+The AI revolution in e-commerce is accelerating. Every month, thousands of Shopify and Amazon merchants discover that an entire professional photoshoot — what used to cost $3,000 and three weeks — can now be done in 30 seconds at a fraction of the price. If you're positioned to introduce those merchants to [Rewarx](https://www.rewarx.com), you'll earn recurring commissions for doing so.
 
-## What is Rewarx?
-
-[Rewarx](https://www.rewarx.com) is the ultimate AI-driven visual content factory. We replace expensive photoshoots with one-click web tools:
-- Need models? Try our [AI Fashion Model Generator](https://www.rewarx.com/tools/model-studio.html).
-- Need flat-lays turned into worn apparel? Use our [Ghost Mannequin Tool](https://www.rewarx.com/tools/ghost-mannequin.html).
-- Have messy backgrounds? Our [AI Background Remover](https://www.rewarx.com/tools/ai-background-remover.html) handles it flawlessly.
-
-## How the Reward Program Works
-
-We've partnered with **Impact.com**, the leading global partnership management platform, to ensure your commissions are tracked accurately and paid out reliably.
-
-### 1. High Recurring Commissions
-Unlike one-off tech affiliate programs, the Rewarx Reward system ensures you receive a high percentage of your referral's subscription revenue. If they upgrade to process more images, your rewards scale with them.
-
-### 2. Built for Agencies & Integrators
-If you run an ecommerce marketing agency, our [Product Page Builder](https://www.rewarx.com/tools/product-page-builder.html) and [Commercial Ad Poster](https://www.rewarx.com/tools/commercial-ad-poster.html) empower your team to deliver results faster. By joining our rewards tier, your agency practically gets paid to use our B2B software on behalf of your clients.
-
-### 3. Transparent Analytics
-Via our Impact Partner dashboard, you get real-time transparency into:
-- Total Link Clicks
-- User Sign-ups
-- Proposal Tracking
-- Commission Payouts
-
-## How to Join & Start Earning
-
-1. **Sign Up**: Register on the [Rewarx Website](https://www.rewarx.com) and navigate to our Partner / Affiliate section.
-2. **Get Approved**: We quickly review applications to ensure alignment with our ecommerce and SaaS community.
-3. **Get Your Links**: Access your unique Impact tracking links.
-4. **Promote**: Share tutorials on how to slice photography budgets using the [Virtual Try-on Technology](https://www.rewarx.com/tools/lookalike-creator.html). 
-
-## Best Practices for Maximizing Your Rewards
-
-- **Create Tutorials**: Videos showing the "Before & After" of our [Group Shot Studio](https://www.rewarx.com/tools/group-shot-studio.html) naturally convert well.
-- **Write Reviews**: Honest blogs comparing traditional photography costs vs. AI Mockups. 
-- **Agency Pitching**: Bundle Rewarx into your service proposals and use your affiliate link for the client billing setup.
-
-Stop leaving money on the table. Join the AI ecommerce revolution and start earning with the **Rewarx Rewards Program** today!
+This article lays out exactly how the program works, who it's designed for, and how to maximize your earnings.
 
 ---
-*Ready to get started? Visit [Rewarx.com](https://www.rewarx.com) and click on the Partnerships tab to apply.*
+
+## What is the Rewarx Partner Rewards Program?
+
+Launched on the [Impact.com](https://impact.com) partnership management platform, the Rewarx Partner Rewards Program give agencies, creators, consultants, and developers a transparent, trackable way to earn revenue from referrals.
+
+Impact.com is used by Shopify, Airbnb, Uber, and thousands of global brands as the gold standard for affiliate tracking. Every click, signup, upgrade, and payout event is logged and auditable in real time. You'll never have to wonder "did my referral count?"
+
+---
+
+## Who Should Apply?
+
+The program is most valuable for people who regularly interact with e-commerce operators and recommend software tools. Specifically:
+
+**📊 E-Commerce Agencies**  
+If you're managing Shopify or Amazon stores for clients, your clients need product photography on an ongoing basis. By recommending Rewarx as your agency's preferred image production tool, you're embedding it into a recurring workflow — which means a recurring commission stream for your agency.
+
+**📝 Content Creators & Reviewers**  
+SaaS review channels, YouTube tutorials, blog articles, and newsletters about Shopify, print-on-demand, or Amazon FBA all attract audiences actively looking for tools. The Rewarx AI tools are incredibly visual and demonstrable — "Before/After" screenshots alone drive enormous conversion.
+
+**👨‍💻 Developer Integrators**  
+If you're building custom Shopify apps or automation workflows for clients, the [Rewarx Batch API](./docs/api-quickstart) is a natural integration target. Merchants pay subscriptions on an ongoing cadence, and your referral commission is tied to that recurring value.
+
+**🛍️ Marketplaces & Platform Communities**  
+Operating in Amazon seller communities, Shopify partner networks, or Etsy seller groups? Rewarx directly addresses the single biggest cost overhead in those businesses — visual content production.
+
+---
+
+## What Tools Are You Promoting?
+
+When you refer a merchant, they gain access to the full Rewarx suite. Here's what actually drives conversions:
+
+### [AI Fashion Model Studio](https://www.rewarx.com/tools/model-studio.html)
+The flagship product. A merchant uploads a garment image — hoodie, dress, sneakers. The AI generates a photorealistic look-alike lifestyle image with a custom model, background, pose, and lighting. No model fee. No location fee. No editing.
+
+### [AI Virtual Try-On](https://www.rewarx.com/tools/virtual-model-try-on.html)
+For high volume apparel SKUs, this tool generates model shots across dozens of variants — colors, sizes, styles — from a single flat-lay source image. Conversion data consistently shows that model photography outperforms flat-lays by 35–60% in add-to-cart rate.
+
+### [Ghost Mannequin Generator](https://www.rewarx.com/tools/ghost-mannequin.html)
+The industry-standard for structured apparel (blazers, sweaters, tailoring). Upload an item on a hanger or mannequin and the AI reconstructs the 3D shape and body volume to produce a fully-worn visual.
+
+### [Background Remover](https://www.rewarx.com/tools/ai-background-remover.html)
+Handles the single most requested e-commerce task: clean, marketplace-compliant white background images. Built-in presets for Amazon, Shopify, and Etsy auto-configure the canvas spec. Process entire catalogs in parallel via API.
+
+### [Commercial Ad Poster](https://www.rewarx.com/tools/commercial-ad-poster.html)
+Takes a product image and generates a finished advertising creative — with typeset headline, subline, and CTA baked in. Ideal for agencies managing client Meta or TikTok campaigns who need to deliver creatives at scale.
+
+### [Group Shot Studio](https://www.rewarx.com/tools/group-shot-studio.html)
+Composes multiple products into a styled scene or curated flatlay — no physical arrangement required. Popular with brands that sell product bundles, gift sets, and "Shop the Look" collections.
+
+---
+
+## How Commissions Work
+
+All referral tracking is managed through **Impact.com**. The core mechanics:
+
+1. **You receive a unique Impact tracking link** after approval.
+2. A merchant clicks your link and lands on [rewarx.com](https://www.rewarx.com).
+3. If they sign up (even days later — the cookie window is long), the event is tracked to your account.
+4. When the merchant activates a paid subscription, your commission credit is triggered.
+5. As long as that merchant remains subscribed, your recurring commission continues.
+
+This last point is the most important: **Rewarx is a subscription SaaS product.** A single active merchant referral generates commission month after month, not just once.
+
+---
+
+## How to Maximize Your Referral Revenue
+
+### Strategy 1: Tutorial Content
+Create a "How I Cut My Product Photography Budget by 90%" video or blog post. Walk through taking a garment image → putting it through the AI Model Studio → downloading a professional result. Show real output. These convert exceptionally well because the value proposition is completely visual.
+
+### Strategy 2: Comparison Articles
+Write a detailed comparison: "Traditional Product Photography vs. AI Photography — Cost, Speed, Quality." Include real pricing data. Mention that most merchants spend $800–$5,000 per photoshoot. Position Rewarx as the alternative that processes unlimited images on a flat subscription.
+
+### Strategy 3: Agency Tool Bundling
+If you're an agency, add Rewarx to your standard onboarding stack alongside Shopify, Klaviyo, and Gorgias. Every new client you onboard becomes a referral. Structure your service delivery so image production runs through Rewarx by default — your clients benefit, and you earn commission on every active account.
+
+### Strategy 4: Developer Integration Pitching
+Write a case study on how you integrated the [Rewarx Batch API](./docs/api-quickstart) into a client's catalog pipeline. GitHub community and Shopify developer forum posts about technical integrations have long shelf lives in search results and consistently attract high-intent readers.
+
+---
+
+## Applying to the Program
+
+1. Visit [www.rewarx.com](https://www.rewarx.com) and find the Partnerships section.
+2. Apply through the Impact.com portal — approval typically takes 1–3 business days.
+3. Once approved, you'll have access to your Impact dashboard with:
+   - Your unique tracking link
+   - Real-time click and conversion data
+   - Commission ledger and payout history
+
+---
+
+The economics are straightforward: the more merchants you introduce to a tool that genuinely saves them money and time, the more you earn — indefinitely. The Rewarx toolkit is genuinely useful, visually compelling, and addresses a universal pain point for any brand with a visual catalog.
+
+**[Apply to the Rewarx Partner Rewards Program →](https://www.rewarx.com)**
