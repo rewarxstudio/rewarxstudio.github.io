@@ -4,8 +4,8 @@
 > We help Shopify, Amazon and enterprise merchants generate studio-quality product images in seconds — no DSLR, no model, no production crew required.
 
 🌐 **Website**: [https://www.rewarx.com](https://www.rewarx.com)  
-📘 **API Docs**: [→ Quickstart Guide](./docs/api-quickstart)  
-🤝 **Partners**: [→ Affiliate Rewards Program](./reward-program-guide)
+📘 **API Docs**: [→ Quickstart Guide](https://rewarxstudio.github.io/docs/api-quickstart)  
+🤝 **Partners**: [→ Affiliate Rewards Program](https://rewarxstudio.github.io/reward-program-guide)
 
 ---
 
@@ -106,7 +106,7 @@ result = response.json()
 print("Image URL:", result.get("output_url"))
 ```
 
-➡️ **[See full API quickstart with all 11 action types →](./docs/api-quickstart)**
+➡️ **[See full API quickstart with all 11 action types →](https://rewarxstudio.github.io/docs/api-quickstart)**
 
 ---
 
@@ -130,7 +130,7 @@ Whether you're a:
 
 ...you can earn **significant recurring commissions** for every merchant you introduce to Rewarx.
 
-👉 **[Read the Complete Partner Rewards Guide](./reward-program-guide)**
+👉 **[Read the Complete Partner Rewards Guide](https://rewarxstudio.github.io/reward-program-guide)**
 
 ---
 
