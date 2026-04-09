@@ -1,12 +1,26 @@
-# How to Earn Recurring Revenue with the Rewarx Partner Rewards Program
+# Earn 50% Commission for 12 Months — Rewarx Partner Rewards Program
 
-The AI revolution in e-commerce is accelerating. Every month, thousands of Shopify and Amazon merchants discover that an entire professional photoshoot — what used to cost $3,000 and three weeks — can now be done in 30 seconds at a fraction of the price. If you're positioned to introduce those merchants to [Rewarx](https://www.rewarx.com), you'll earn recurring commissions for doing so.
+**One of the most generous affiliate deals in AI SaaS.** Rewarx pays out **50% of every referred subscription — for a full 12 consecutive months.** Not a one-time flat fee. Not a 30-day window. Half of what the merchant pays, every billing cycle, for an entire year.
 
-This article lays out exactly how the program works, who it's designed for, and how to maximize your earnings.
+The AI revolution in e-commerce is accelerating. Every month, thousands of Shopify and Amazon merchants discover that an entire professional photoshoot — what used to cost $3,000 and three weeks — can now be done in 30 seconds at a fraction of the price. When you introduce those merchants to [Rewarx](https://www.rewarx.com), you earn recurring commissions on every payment they make.
 
 ---
 
-## What is the Rewarx Partner Rewards Program?
+## The Commission Structure at a Glance
+
+| | Rewarx Partner Program | Typical SaaS Affiliate |
+|---|---|---|
+| Commission rate | **50%** | 10–30% |
+| Duration | **12 months** | 1–3 months |
+| Tracking platform | **Impact.com** | Custom / opaque |
+| Cookie window | Long | 7–30 days |
+| Payout reliability | Platform-grade | Variable |
+
+The math is simple: refer a merchant on a $99/month plan → earn **~$594 from that single referral** over 12 months. Refer 10 merchants at scale → that's **$5,940 in passive income from one month's worth of effort.**
+
+---
+
+
 
 Launched on the [Impact.com](https://impact.com) partnership management platform, the Rewarx Partner Rewards Program give agencies, creators, consultants, and developers a transparent, trackable way to earn revenue from referrals.
 
